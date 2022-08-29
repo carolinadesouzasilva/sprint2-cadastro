@@ -1,0 +1,17 @@
+
+.menuContent {
+  margin-top: 50px;
+  width: 20%;
+  height: 50%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+li {
+    list-style: none;
+    margin-bottom: 10px;
+    color: #4caf50;
+    font-weight: bold;
+}
